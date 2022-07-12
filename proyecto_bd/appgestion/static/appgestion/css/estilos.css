@@ -1,0 +1,85 @@
+*
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cenform
+{
+    margin:auto;
+    display:block;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+    max-width: 500px;
+}
+.cenform input
+{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.fondo
+{
+    background: url(../img/fondo.png);
+    background-size: cover;
+}
+.card 
+{
+    margin:auto;
+    display:block;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 30px;
+    justify-content: center;
+    max-width: 75em;
+    border: 10px rgb(0, 140, 255) !important;
+    border-radius: 10px !important;
+    background: rgba(255, 255, 255, 0.534) !important;
+}
+.card-body
+{
+    margin:auto;
+    display:block;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 10px;
+    justify-content: center;
+    max-width: 75em;
+}
+
+.titleman
+{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    background: rgba(255, 255, 255, 0.534) !important;
+}
+
+.formu 
+{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 10px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    background: rgba(255, 255, 255, 0.534) !important;
+}
+
+.listext 
+{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    background: rgba(255, 255, 255, 0.534) !important;
+}
